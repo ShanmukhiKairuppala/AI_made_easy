@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+#doc{
+    border: 2px solid powderblue;
+    padding: 10px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif ;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+#map{
+    border: 2px solid powderblue;
+    padding: 10px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif ;
+}
+#link{
+    color:aqua;
+}
+
+#repo{
+    border: 2px solid powderblue;
+    padding: 10px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif ;
+}
+.tools{
+  display: flex;
+  align-items: center;
+  flex-direction: column;  
+
+}
+#tools{
+    border: 2px solid powderblue;
+    padding: 10px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif 
+}
